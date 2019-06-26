@@ -24,7 +24,7 @@
 Микросервисы, которые нужны
 1) Сервис авторизации(Identity) - https://github.com/sevastopolsharks/TogetherByTaxi_Identity
 2) WebApi - апи для возврата основных результатов и работы с основными данными
-3) UI - вот тут полная свобода, предлагаю сайт пилить на Angular + нативное приложение для Android
+3) UI - вот тут полная свобода, предлагаю сайт пилить на React либо Angular + нативное приложение для Android
 4) Сервис уведомлений - получает уведомления через шину и потом эти уведомления рассылает(SignalR, почта, sms)
 5) SignalR - https://github.com/sevastopolsharks/TogetherByTaxi_SignalR
 
